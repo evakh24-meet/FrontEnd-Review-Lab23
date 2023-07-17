@@ -5,12 +5,12 @@ border-width: 20px;
 border-style: double;
 }
 
-#about {font-family: fantasy;
+#about {font: sans-serif;
 font-size: 20px;
 color: darkslategray;}
 
-h1 {font-family: cursive;}
-h2 {font-family: cursive;}
+h1 {font-family: sans-serif;}
+h2 {font-family: sans-serif;}
 
 button {height: 100px;
 width: 200px; background-color: white; color: deeppink; padding: 20px; font-size: 20px; border-radius: 12px;}
