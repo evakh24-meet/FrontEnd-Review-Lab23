@@ -1,0 +1,18 @@
+html{background: palegreen;}
+
+.pic{border-color: deeppink;
+border-width: 20px;
+border-style: double;
+}
+
+#about {font-family: fantasy;
+font-size: 20px;
+color: darkslategray;}
+
+h1 {font-family: cursive;}
+h2 {font-family: cursive;}
+
+button {height: 100px;
+width: 200px; background-color: white; color: deeppink; padding: 20px; font-size: 20px; border-radius: 12px;}
+
+a {font-size: 20px}
